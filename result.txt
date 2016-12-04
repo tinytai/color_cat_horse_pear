@@ -1,0 +1,3 @@
+0 pair
+1 horse
+2 cat
